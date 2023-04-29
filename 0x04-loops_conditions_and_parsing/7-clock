@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# This script is displaying "Time" for 12 hours
+# This script is displaying the time for 12 hours and 59 minutes
 i=1
 j=0
 while [ "$j" -le 12 ]
