@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # This script is displaying information about the school file
-file_h="holbertonschool"
+file_h="school"
 
 if [ -e "$file_h" ]
 then
